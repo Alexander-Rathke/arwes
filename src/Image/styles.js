@@ -24,7 +24,7 @@ export default (theme) => {
       display: 'flex',
       flexDirection: 'column',
       transition: `all ${theme.animTime}ms ease-out`,
-      minHeight: 200,
+      minHeight: 144,
     },
     img: {
       display: 'block',
