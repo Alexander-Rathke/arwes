@@ -43,7 +43,7 @@ yarn-error.log
 ## PROJECT
 ##
 
-lib
+# lib
 build
 site/api-components/*
 !site/api-components/.gitkeep
