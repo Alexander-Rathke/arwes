@@ -17,14 +17,6 @@ export default (theme) => {
           width: 0,
         },
       },
-
-      '&:hover': {
-        '& $separator': {
-          borderColor: theme.color.primary.base,
-          boxShadow: `0 0 ${theme.shadowLength}px `
-            + rgba(theme.color.primary.base, theme.alpha),
-        },
-      },
     },
     header: {
       position: 'relative',
